@@ -1,0 +1,16 @@
+GIT:
+Git is a version control system for tracking changes in computer files. It is generally used for Source Code Management in Software Development. 
+Git is used to track changes in the Source Code
+A distributed version control tool used for source code management 
+Allows multiple developers to work together
+Supports non-linear development because of its thousands of parallel branches
+It was originally developed in 2005 by Linus Torvalds, the famous creator of the Linux Operating system Kernel.
+Features of Git:
+Track History
+Free Open Source (There is no cost to use it)
+Support Non-Linear Linear Development (Allows people to build out new features in parallel to the master branch so that you can constantly have the master code out there without adding new features without breaking the code)
+Create Backups 
+Scalable
+Supports Collaboration
+Branching is easier
+Distributed Development
