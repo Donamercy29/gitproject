@@ -14,3 +14,7 @@ Scalable
 Supports Collaboration
 Branching is easier
 Distributed Development
+
+
+
+Learning on Branching and merging concepts
