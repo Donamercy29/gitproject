@@ -24,3 +24,5 @@ You can do your work on a branch while the main branch(master) remains stable. A
 Day 3: Learned about Git branches and conflicts
 
 Practicing PR concepts
+
+Learning on Tagging concept
