@@ -30,3 +30,6 @@ Learning on Tagging concept
 this is for the stash practice
 
 completed the branch 2 file and came back to this old file which is stored in stash
+
+This is to check the undoing changes stored in git
+This is to check the restore commited file
