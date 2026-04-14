@@ -26,3 +26,7 @@ Day 3: Learned about Git branches and conflicts
 Practicing PR concepts
 
 Learning on Tagging concept
+###Stashing
+this is for the stash practice
+
+completed the branch 2 file and came back to this old file which is stored in stash
